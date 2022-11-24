@@ -1232,20 +1232,6 @@
     "text": "Country: GB\nClass: demoman\nETF2L\n\nInputs.table(transpose({'Metric': ['kills', 'assists', 'deaths', 'da_m', 'ka_d_ratio', 'dt_m', 'airshots', 'prop_heals_received'],                         'Value': [11.9, 5.4, 12.3, 212.0, 1.41, 206.0, 0.7, 26.1],                         'Rank': [47.0, 36.0, 9.0, 50.0, 23.0, 4.0, 46.0, 32.0]}), {\n  rows: 21.2\n})\n\n\n\n\n\n\n\nInputs.table(transpose({'Log URLs': ['https://logs.tf/2520991', 'https://logs.tf/2520964', 'https://logs.tf/2520023', 'https://logs.tf/2519945', 'https://logs.tf/2519831', 'https://logs.tf/2519790', 'https://logs.tf/2519776', 'https://logs.tf/2519729']}), {\n  rows: 21.2\n})"
   },
   {
-    "objectID": "players/U_1_31135245_scout.html",
-    "href": "players/U_1_31135245_scout.html",
-    "title": "azn",
-    "section": "",
-    "text": "Country: FR\nClass: scout\nETF2L\n\nInputs.table(transpose({'Metric': ['kills', 'assists', 'deaths', 'da_m', 'ka_d_ratio', 'dt_m', 'headshot_kills', 'points_capped', 'prop_heals_received', 'prop_time_offclassed'],                         'Value': [30.4, 11.1, 17.9, 300.0, 2.31, 181.0, 6.56, 9.73, 11.7, 28.7],                         'Rank': [2.0, 54.0, 77.0, 3.0, 34.0, 20.0, 1.0, 29.0, 109.0, 7.0]}), {\n  rows: 21.2\n})\n\n\n\n\n\n\n\nInputs.table(transpose({'Log URLs': ['https://logs.tf/3213671', 'https://logs.tf/3213628', 'https://logs.tf/3209328', 'https://logs.tf/3209283', 'https://logs.tf/3204934', 'https://logs.tf/3204895', 'https://logs.tf/3202213', 'https://logs.tf/3202157', 'https://logs.tf/3171739', 'https://logs.tf/3171722', 'https://logs.tf/3171664', 'https://logs.tf/3171662', 'https://logs.tf/3171059', 'https://logs.tf/3171002']}), {\n  rows: 21.2\n})"
-  },
-  {
-    "objectID": "players/U_1_31135245_soldier.html",
-    "href": "players/U_1_31135245_soldier.html",
-    "title": "azn",
-    "section": "",
-    "text": "Country: FR\nClass: soldier\nETF2L\n\nInputs.table(transpose({'Metric': ['kills', 'assists', 'deaths', 'da_m', 'ka_d_ratio', 'dt_m', 'airshots', 'prop_heals_received', 'prop_time_offclassed'],                         'Value': [20.1, 3.8, 21.3, 294.0, 1.12, 248.0, 5.69, 13.1, 10.0],                         'Rank': [15.0, 102.0, 37.0, 3.0, 28.0, 61.0, 20.0, 108.0, 7.0]}), {\n  rows: 21.2\n})\n\n\n\n\n\n\n\nInputs.table(transpose({'Log URLs': ['https://logs.tf/3095426', 'https://logs.tf/3095410', 'https://logs.tf/3095399', 'https://logs.tf/3091300', 'https://logs.tf/3091282', 'https://logs.tf/3091250', 'https://logs.tf/3191922', 'https://logs.tf/3191921', 'https://logs.tf/3081450', 'https://logs.tf/3081414', 'https://logs.tf/3082029', 'https://logs.tf/3081991', 'https://logs.tf/3069159', 'https://logs.tf/3069084']}), {\n  rows: 21.2\n})"
-  },
-  {
     "objectID": "players/U_1_3151199_scout.html",
     "href": "players/U_1_3151199_scout.html",
     "title": "zen1th",
@@ -2112,13 +2098,6 @@
     "title": "Greg",
     "section": "",
     "text": "Country: GB\nClass: soldier\nETF2L\n\nInputs.table(transpose({'Metric': ['kills', 'assists', 'deaths', 'da_m', 'ka_d_ratio', 'dt_m', 'airshots', 'prop_heals_received', 'prop_time_offclassed'],                         'Value': [14.8, 4.7, 24.2, 230.0, 0.81, 249.0, 5.38, 14.9, 5.8],                         'Rank': [71.0, 82.0, 81.0, 81.0, 85.0, 60.0, 26.0, 87.0, 14.0]}), {\n  rows: 21.2\n})\n\n\n\n\n\n\n\nInputs.table(transpose({'Log URLs': ['https://logs.tf/2751394', 'https://logs.tf/2751381']}), {\n  rows: 21.2\n})"
-  },
-  {
-    "objectID": "players/U_1_86331856_medic.html",
-    "href": "players/U_1_86331856_medic.html",
-    "title": "torrit",
-    "section": "",
-    "text": "Country: GB-ENG\nClass: medic\nETF2L\n\nInputs.table(transpose({'Metric': ['assists', 'deaths', 'ka_d_ratio', 'healing_min', 'ubercharges', 'kritzkriegs', 'drops', 'deaths_20s_after_uber'],                         'Value': [11.8, 15.0, 0.85, 872.0, 9.8, 0.0, 1.04, 2.74],                         'Rank': [37.0, 60.0, 59.0, 65.0, 57.0, 37.0, 58.0, 54.0]}), {\n  rows: 21.2\n})\n\n\n\n\n\n\n\nInputs.table(transpose({'Log URLs': ['https://logs.tf/2633648', 'https://logs.tf/2633619', 'https://logs.tf/2625769', 'https://logs.tf/2625717', 'https://logs.tf/2616159', 'https://logs.tf/2616077', 'https://logs.tf/2609219', 'https://logs.tf/2609197', 'https://logs.tf/2592686', 'https://logs.tf/2584403', 'https://logs.tf/2584368']}), {\n  rows: 21.2\n})"
   },
   {
     "objectID": "players/U_1_86445464_medic.html",
