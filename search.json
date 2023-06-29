@@ -569,7 +569,7 @@
   {
     "objectID": "players/U_1_131094319_Soldier.html",
     "href": "players/U_1_131094319_Soldier.html",
-    "title": "Ryfourn",
+    "title": "ry4n",
     "section": "",
     "text": "Country: England\nClass: Soldier\nETF2L\n\nInputs.table(transpose({'Metric': ['kills', 'assists', 'deaths', 'da_m', 'ka_d_ratio', 'dt_m', 'airshots', 'prop_heals_received', 'prop_time_offclassed'],                         'Value': [13.7, 5.6, 22.3, 217.0, 0.86, 230.0, 1.76, 16.8, 0.0],                         'Rank': [92.0, 57.0, 61.0, 98.0, 83.0, 24.0, 95.0, 57.0, 74.0]}), {\n  rows: 21.2\n})\n\n\n\n\n\n\n\nInputs.table(transpose({'Log URLs': ['https://logs.tf/3393540', 'https://logs.tf/3393504', 'https://logs.tf/3390863', 'https://logs.tf/3390828', 'https://logs.tf/3389041', 'https://logs.tf/3389015', 'https://logs.tf/3385474', 'https://logs.tf/3385442', 'https://logs.tf/3378376', 'https://logs.tf/3378327', 'https://logs.tf/3373420', 'https://logs.tf/3373375', 'https://logs.tf/3368697', 'https://logs.tf/3368662']}), {\n  rows: 21.2\n})"
   },
@@ -1808,7 +1808,7 @@
   {
     "objectID": "players/U_1_55675732_Scout.html",
     "href": "players/U_1_55675732_Scout.html",
-    "title": "pandemic",
+    "title": ".pandemiC",
     "section": "",
     "text": "Country: Turkey\nClass: Scout\nETF2L\n\nInputs.table(transpose({'Metric': ['kills', 'assists', 'deaths', 'da_m', 'ka_d_ratio', 'dt_m', 'headshot_kills', 'points_capped', 'prop_heals_received', 'prop_time_offclassed'],                         'Value': [25.1, 10.7, 12.6, 252.0, 2.86, 212.0, 0.74, 5.86, 23.9, 13.0],                         'Rank': [14.0, 68.0, 18.0, 28.0, 15.0, 71.0, 34.0, 87.0, 18.0, 58.0]}), {\n  rows: 21.2\n})\n\n\n\n\n\n\n\nInputs.table(transpose({'Log URLs': ['https://logs.tf/3393540', 'https://logs.tf/3393504', 'https://logs.tf/3389042', 'https://logs.tf/3389004', 'https://logs.tf/3387168', 'https://logs.tf/3387152', 'https://logs.tf/3384855', 'https://logs.tf/3384823', 'https://logs.tf/3378804', 'https://logs.tf/3378382', 'https://logs.tf/3373409', 'https://logs.tf/3373366', 'https://logs.tf/3370865', 'https://logs.tf/3370833']}), {\n  rows: 21.2\n})"
   },
