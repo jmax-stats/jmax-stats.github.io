@@ -597,7 +597,7 @@
   {
     "objectID": "players/U_1_136305209_Soldier.html",
     "href": "players/U_1_136305209_Soldier.html",
-    "title": "buud",
+    "title": "Buud",
     "section": "",
     "text": "Country: Croatia\nClass: Soldier\nETF2L\n\nInputs.table(transpose({'Metric': ['kills', 'assists', 'deaths', 'da_m', 'ka_d_ratio', 'dt_m', 'airshots', 'prop_heals_received', 'prop_time_offclassed'],                         'Value': [14.6, 4.4, 22.7, 241.0, 0.83, 259.0, 4.76, 17.8, 0.0],                         'Rank': [80.0, 102.0, 68.0, 59.0, 89.0, 77.0, 43.0, 51.0, 79.0]}), {\n  rows: 21.2\n})\n\n\n\n\n\n\n\nInputs.table(transpose({'Log URLs': ['https://logs.tf/3452628', 'https://logs.tf/3450286', 'https://logs.tf/3445716', 'https://logs.tf/3445702', 'https://logs.tf/3445684', 'https://logs.tf/3058288', 'https://logs.tf/3058264', 'https://logs.tf/3191905', 'https://logs.tf/3014394', 'https://logs.tf/3007774', 'https://logs.tf/3007744', 'https://logs.tf/3003739', 'https://logs.tf/3003702', 'https://logs.tf/3004521']}), {\n  rows: 21.2\n})"
   },
