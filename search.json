@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About these stats",
+    "section": "",
+    "text": "Ranking\nStats are ranked from best to worst, ie rank 1 for kills or damage means you’ve got the most but rank 1 for deaths or drops means you’ve got the fewest.\nIt’s not totally intuitive; there are around twice as many scouts and soldiers as there are demos and medics so comparison isn’t easy. Eventually this will be listed as percentiles: rank 1 will become top 1% and whatever the last rank is will become top 100%.\n\n\nRating\nRating uses the TrueSkill system to find both an average value for skill and a measure of that value’s spread (standard deviation or sd). There’s then a 68% chance someone’s rating is within 1*sd of that average and a 95% chance it’s within 2*sd (the 68-95-99.7 rule) We report rating as average - 1*sd to give a 20th percentile boundary, ie there’s an 80% chance you’re better than what’s listed.\nRating begins at 1800 +/- sd 600 (which would be shown as 1200) but the more you play, the more confident in your rating we become and the smaller your sd gets (down to 60 at the top end).\nIt’s not displayed until you’ve played 46 maps or more, though: a 6v6 game means a lot of data is needed to rate a single player. This cutoff should really be higher (46 is where it gets reliable for 4v4 matches) but if I did that nobody would get a number."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "TF2 Statistics",
