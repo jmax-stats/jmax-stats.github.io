@@ -1787,7 +1787,7 @@
   {
     "objectID": "players/U_1_308379418_Medic.html",
     "href": "players/U_1_308379418_Medic.html",
-    "title": "patikuss",
+    "title": "szanitecc",
     "section": "",
     "text": "Country: International\nClass: Medic\nRating: Unknown: not enough data\nETF2L\n\nInputs.table(transpose({'Metric': ['assists', 'deaths', 'ka_d_ratio', 'healing_min', 'ubercharges', 'kritzkriegs', 'drops', 'deaths_20s_after_uber'],                         'Value': [17.0, 9.8, 1.85, 1130.0, 13.28, 1.24, 0.62, 2.9],                         'Rank': [4.0, 58.0, 23.0, 38.0, 14.0, 8.0, 45.0, 91.0]}), {\n  rows: 21.2\n})\n\n\n\n\n\n\n\nInputs.table(transpose({'Log URLs': ['https://logs.tf/3686259', 'https://logs.tf/3686221', 'https://logs.tf/3685710', 'https://logs.tf/3685698', 'https://logs.tf/3685683']}), {\n  rows: 21.2\n})"
   },
@@ -3124,14 +3124,14 @@
   {
     "objectID": "players/U_1_89046714_Demoman.html",
     "href": "players/U_1_89046714_Demoman.html",
-    "title": "mak",
+    "title": "mak FP",
     "section": "",
     "text": "Country: England\nClass: Demoman\nRating: 1539\nETF2L\n\nInputs.table(transpose({'Metric': ['kills', 'assists', 'deaths', 'da_m', 'ka_d_ratio', 'dt_m', 'airshots', 'prop_heals_received'],                         'Value': [9.7, 6.0, 13.4, 225.0, 1.18, 258.0, 0.36, 26.1],                         'Rank': [77.0, 33.0, 25.0, 74.0, 57.0, 42.0, 75.0, 43.0]}), {\n  rows: 21.2\n})\n\n\n\n\n\n\n\nInputs.table(transpose({'Log URLs': ['https://logs.tf/3539380', 'https://logs.tf/3539345', 'https://logs.tf/3535670', 'https://logs.tf/3535647', 'https://logs.tf/3533365', 'https://logs.tf/3533332', 'https://logs.tf/3529200', 'https://logs.tf/3529164', 'https://logs.tf/3537252', 'https://logs.tf/3537214', 'https://logs.tf/3530852', 'https://logs.tf/3523254', 'https://logs.tf/3530850', 'https://logs.tf/3517541']}), {\n  rows: 21.2\n})"
   },
   {
     "objectID": "players/U_1_89046714_Medic.html",
     "href": "players/U_1_89046714_Medic.html",
-    "title": "mak",
+    "title": "mak FP",
     "section": "",
     "text": "Country: England\nClass: Medic\nRating: Unknown: not enough data\nETF2L\n\nInputs.table(transpose({'Metric': ['assists', 'deaths', 'ka_d_ratio', 'healing_min', 'ubercharges', 'kritzkriegs', 'drops', 'deaths_20s_after_uber'],                         'Value': [14.0, 8.2, 1.79, 1256.0, 11.62, 2.39, 0.56, 2.55],                         'Rank': [27.0, 36.0, 27.0, 6.0, 46.0, 2.0, 37.0, 76.0]}), {\n  rows: 21.2\n})\n\n\n\n\n\n\n\nInputs.table(transpose({'Log URLs': ['https://logs.tf/3679094', 'https://logs.tf/3679060', 'https://logs.tf/3678988', 'https://logs.tf/3678975', 'https://logs.tf/3676592', 'https://logs.tf/3645145', 'https://logs.tf/3645128', 'https://logs.tf/3645044', 'https://logs.tf/3645028', 'https://logs.tf/3645021', 'https://logs.tf/3644418', 'https://logs.tf/3644406', 'https://logs.tf/3639026', 'https://logs.tf/3638998']}), {\n  rows: 21.2\n})"
   },
