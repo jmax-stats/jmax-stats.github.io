@@ -111,7 +111,7 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#ranking" id="toc-ranking" class="nav-link active" data-scroll-target="#ranking">Ranking</a></li>
-  <li><a href="#rating" id="toc-rating" class="nav-link" data-scroll-target="#rating">Rating</a></li>
+  <li><a href="#skill" id="toc-skill" class="nav-link" data-scroll-target="#skill">Skill</a></li>
   </ul>
 </nav>
     </div>
@@ -140,16 +140,25 @@ ul.task-list li input[type="checkbox"] {
 <p>Stats are ranked from best to worst, ie rank 1 for kills or damage means you’ve got the most but rank 1 for deaths or drops means you’ve got the fewest.</p>
 <p>It’s not totally intuitive; there are around twice as many scouts and soldiers as there are demos and medics so comparison isn’t easy. Eventually this will be listed as percentiles: rank 1 will become top 1% and whatever the last rank is will become top 100%.</p>
 </section>
-<section id="rating" class="level3">
-<h3 class="anchored" data-anchor-id="rating">Rating</h3>
-<p>Rating uses the <a href="https://trueskill.org/">TrueSkill</a> system to find both an average value for skill and a measure of that value’s spread (standard deviation or sd). There’s then a 68% chance someone’s rating is within 1*sd of that average and a 95% chance it’s within 2*sd (<a href="https://en.wikipedia.org/wiki/68%E2%80%9395%E2%80%9399.7_rule">the 68-95-99.7 rule</a>) We report rating as average - 1*sd to give a 20th percentile boundary, ie there’s an 80% chance you’re better than what’s listed.</p>
-<p>Rating begins at 1800 +/- sd 600 (which would be shown as 1200) but the more you play, the more confident in your rating we become and the smaller your sd gets (down to 60 at the top end).</p>
-<p>It’s not displayed until you’ve played 46 maps or more, though: a 6v6 game means a lot of data is needed to rate a single player. This cutoff should really be higher (46 is where it gets reliable for 4v4 matches) but if I did that nobody would get a number.</p>
+<section id="skill" class="level3">
+<h3 class="anchored" data-anchor-id="skill">Skill</h3>
+<p>Skill uses the <a href="https://trueskill.org/">TrueSkill</a> system to find both an average value for skill and a measure of that value’s spread (standard deviation or sd). There’s then a 68% chance someone’s rating is within 1*sd of that average and a 95% chance it’s within 2*sd (<a href="https://en.wikipedia.org/wiki/68%E2%80%9395%E2%80%9399.7_rule">the 68-95-99.7 rule</a>) Finally, we report rating as average - 1*sd to give a 20th percentile boundary.</p>
+<p>Rating begins at 1800 ± sd 600 (which would be shown as 1200) but the more you play, the more confident in your rating we become and the smaller your sd gets (down to about 60 at the top end). It isn’t split by class<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a> so every player has one skill value.</p>
+<p>Until you’ve played 46 maps or more, it won’t be displayed: a 6v6 format means a lot of data is needed to rate a single player. This cutoff should really be higher (46 is where it gets reliable for 4v4 matches) but if we did that nobody would get a number.</p>
+<p>###&nbsp;Rating</p>
+<p>Rating uses only the raw stats from each match’s log to evaluate how well you performed. The initial values are the same for all classes, meaning it can be compared between all players. It’s reported as the average of the most recent 14 maps you played, as with other stats.</p>
+<p>To get this formula, I took around 1000 logs and compared players’ performances to the final scoreline to identify the contribution of each stat to the final result. This isn’t perfect – raw stats don’t capture the entirety of a player’s performance – but is a useful tool and provides another metric with which to compare players.</p>
 
 
 </section>
 
-</main> <!-- /main -->
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>If you haven’t played enough maps on a given class it won’t show up; this is a known bug.<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
