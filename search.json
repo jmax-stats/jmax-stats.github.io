@@ -156,21 +156,21 @@
   {
     "objectID": "players/U_1_101328438_Demoman.html",
     "href": "players/U_1_101328438_Demoman.html",
-    "title": "Capsaps",
+    "title": "chris",
     "section": "",
     "text": "Country: International\nClass: Demoman\nSkill: Unknown: not enough data\nRating: 0.35\nETF2L\n\nInputs.table(transpose({'Metric': ['kills', 'assists', 'deaths', 'da_m', 'ka_d_ratio', 'dt_m', 'airshots', 'prop_heals_received'],                         'Value': [14.9, 5.8, 13.2, 295.0, 1.57, 302.0, 1.07, 26.9],                         'Rank': [118.0, 134.0, 66.0, 57.0, 79.0, 195.0, 97.0, 88.0]}), {\n  rows: 21.2\n})\n\n\n\n\n\n\n\nInputs.table(transpose({'Log URLs': ['https://logs.tf/3897292', 'https://logs.tf/3897265', 'https://logs.tf/3897222', 'https://logs.tf/3896694', 'https://logs.tf/3896656', 'https://logs.tf/3896632', 'https://logs.tf/3896487', 'https://logs.tf/3896465', 'https://logs.tf/3894595', 'https://logs.tf/3886783', 'https://logs.tf/3891494', 'https://logs.tf/3890305', 'https://logs.tf/3886766', 'https://logs.tf/3883192']}), {\n  rows: 21.2\n})"
   },
   {
     "objectID": "players/U_1_101328438_Scout.html",
     "href": "players/U_1_101328438_Scout.html",
-    "title": "Capsaps",
+    "title": "chris",
     "section": "",
     "text": "Country: International\nClass: Scout\nSkill: 2186\nRating: 1.34\nETF2L\n\nInputs.table(transpose({'Metric': ['kills', 'assists', 'deaths', 'da_m', 'ka_d_ratio', 'dt_m', 'headshot_kills', 'points_capped', 'prop_heals_received', 'prop_time_offclassed'],                         'Value': [22.9, 15.1, 12.0, 300.0, 3.18, 256.0, 0.0, 8.95, 21.7, 2.6],                         'Rank': [168.0, 41.0, 40.0, 30.0, 23.0, 351.0, 182.0, 162.0, 125.0, 382.0]}), {\n  rows: 21.2\n})\n\n\n\n\n\n\n\nInputs.table(transpose({'Log URLs': ['https://logs.tf/3886745', 'https://logs.tf/3874043', 'https://logs.tf/3862670', 'https://logs.tf/3862649', 'https://logs.tf/3862633', 'https://logs.tf/3862616', 'https://logs.tf/3862053', 'https://logs.tf/3862031', 'https://logs.tf/3861947', 'https://logs.tf/3861901', 'https://logs.tf/3861867', 'https://logs.tf/3861416', 'https://logs.tf/3861338', 'https://logs.tf/3861276']}), {\n  rows: 21.2\n})"
   },
   {
     "objectID": "players/U_1_101328438_Soldier.html",
     "href": "players/U_1_101328438_Soldier.html",
-    "title": "Capsaps",
+    "title": "chris",
     "section": "",
     "text": "Country: International\nClass: Soldier\nSkill: Unknown: not enough data\nRating: Unknown: not enough data\nETF2L\n\nInputs.table(transpose({'Metric': ['kills', 'assists', 'deaths', 'da_m', 'ka_d_ratio', 'dt_m', 'airshots', 'prop_heals_received', 'prop_time_offclassed'],                         'Value': [38.1, 13.3, 8.3, 332.0, 6.2, 259.0, 0.0, 29.7, 0.0],                         'Rank': [6.0, 5.0, 1.0, 7.0, 2.0, 250.0, 380.0, 2.0, 285.0]}), {\n  rows: 21.2\n})\n\n\n\n\n\n\n\nInputs.table(transpose({'Log URLs': ['https://logs.tf/3873985', 'https://logs.tf/3645932']}), {\n  rows: 21.2\n})"
   },
@@ -2746,7 +2746,7 @@
   {
     "objectID": "players/U_1_143242759_Soldier.html",
     "href": "players/U_1_143242759_Soldier.html",
-    "title": "76561198103508487",
+    "title": "scumbag steve",
     "section": "",
     "text": "Country: Unknown\nClass: Soldier\nSkill: Unknown: not enough data\nRating: -0.42\nETF2L\n\nInputs.table(transpose({'Metric': ['kills', 'assists', 'deaths', 'da_m', 'ka_d_ratio', 'dt_m', 'airshots', 'prop_heals_received', 'prop_time_offclassed'],                         'Value': [15.5, 5.8, 24.5, 231.0, 0.87, 217.0, 0.57, 12.5, 0.9],                         'Rank': [235.0, 191.0, 275.0, 285.0, 264.0, 42.0, 342.0, 398.0, 206.0]}), {\n  rows: 21.2\n})\n\n\n\n\n\n\n\nInputs.table(transpose({'Log URLs': ['https://logs.tf/3538574', 'https://logs.tf/3538554', 'https://logs.tf/3527617', 'https://logs.tf/3527593', 'https://logs.tf/3526037', 'https://logs.tf/3526017', 'https://logs.tf/3522941', 'https://logs.tf/3522917', 'https://logs.tf/3514783', 'https://logs.tf/3511331', 'https://logs.tf/3510347', 'https://logs.tf/3509822', 'https://logs.tf/3507179', 'https://logs.tf/3515327']}), {\n  rows: 21.2\n})"
   },
@@ -6794,14 +6794,14 @@
     "href": "players/U_1_50477620_Demoman.html",
     "title": "tiny",
     "section": "",
-    "text": "Country: Unknown\nClass: Demoman\nSkill: Unknown: not enough data\nRating: -1.9\nETF2L\n\nInputs.table(transpose({'Metric': ['kills', 'assists', 'deaths', 'da_m', 'ka_d_ratio', 'dt_m', 'airshots', 'prop_heals_received'],                         'Value': [10.6, 6.2, 14.8, 219.0, 1.14, 229.0, 0.46, 24.7],                         'Rank': [218.0, 107.0, 100.0, 210.0, 165.0, 44.0, 177.0, 174.0]}), {\n  rows: 21.2\n})\n\n\n\n\n\n\n\nInputs.table(transpose({'Log URLs': ['https://logs.tf/3962726', 'https://logs.tf/3962711', 'https://logs.tf/3961560', 'https://logs.tf/3961538', 'https://logs.tf/3954817', 'https://logs.tf/3955888', 'https://logs.tf/3954248', 'https://logs.tf/3947163', 'https://logs.tf/3943161', 'https://logs.tf/3939422', 'https://logs.tf/3938366']}), {\n  rows: 21.2\n})"
+    "text": "Country: International\nClass: Demoman\nSkill: Unknown: not enough data\nRating: -1.9\nETF2L\n\nInputs.table(transpose({'Metric': ['kills', 'assists', 'deaths', 'da_m', 'ka_d_ratio', 'dt_m', 'airshots', 'prop_heals_received'],                         'Value': [10.6, 6.2, 14.8, 219.0, 1.14, 229.0, 0.46, 24.7],                         'Rank': [218.0, 107.0, 100.0, 210.0, 165.0, 44.0, 177.0, 174.0]}), {\n  rows: 21.2\n})\n\n\n\n\n\n\n\nInputs.table(transpose({'Log URLs': ['https://logs.tf/3962726', 'https://logs.tf/3962711', 'https://logs.tf/3961560', 'https://logs.tf/3961538', 'https://logs.tf/3954817', 'https://logs.tf/3955888', 'https://logs.tf/3954248', 'https://logs.tf/3947163', 'https://logs.tf/3943161', 'https://logs.tf/3939422', 'https://logs.tf/3938366']}), {\n  rows: 21.2\n})"
   },
   {
     "objectID": "players/U_1_50477620_Soldier.html",
     "href": "players/U_1_50477620_Soldier.html",
     "title": "tiny",
     "section": "",
-    "text": "Country: Unknown\nClass: Soldier\nSkill: Unknown: not enough data\nRating: Unknown: not enough data\nETF2L\n\nInputs.table(transpose({'Metric': ['kills', 'assists', 'deaths', 'da_m', 'ka_d_ratio', 'dt_m', 'airshots', 'prop_heals_received', 'prop_time_offclassed'],                         'Value': [11.8, 6.7, 16.3, 216.0, 1.14, 205.0, 0.0, 20.7, 0.0],                         'Rank': [383.0, 110.0, 16.0, 356.0, 78.0, 23.0, 380.0, 56.0, 285.0]}), {\n  rows: 21.2\n})\n\n\n\n\n\n\n\nInputs.table(transpose({'Log URLs': ['https://logs.tf/3821972', 'https://logs.tf/3821962', 'https://logs.tf/3821936']}), {\n  rows: 21.2\n})"
+    "text": "Country: International\nClass: Soldier\nSkill: Unknown: not enough data\nRating: Unknown: not enough data\nETF2L\n\nInputs.table(transpose({'Metric': ['kills', 'assists', 'deaths', 'da_m', 'ka_d_ratio', 'dt_m', 'airshots', 'prop_heals_received', 'prop_time_offclassed'],                         'Value': [11.8, 6.7, 16.3, 216.0, 1.14, 205.0, 0.0, 20.7, 0.0],                         'Rank': [383.0, 110.0, 16.0, 356.0, 78.0, 23.0, 380.0, 56.0, 285.0]}), {\n  rows: 21.2\n})\n\n\n\n\n\n\n\nInputs.table(transpose({'Log URLs': ['https://logs.tf/3821972', 'https://logs.tf/3821962', 'https://logs.tf/3821936']}), {\n  rows: 21.2\n})"
   },
   {
     "objectID": "players/U_1_50591366_Soldier.html",
